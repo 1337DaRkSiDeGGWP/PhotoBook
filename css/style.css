@@ -1,0 +1,442 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+input,
+textarea,
+select,
+button {
+    outline: none !important;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+}
+
+body {
+    background: #fff;
+
+}
+
+
+.navbar-dark .navbar-toggler {
+
+    border: none;
+}
+
+.container-fluid {
+    width: none;
+}
+
+.navbar .ph4 {
+    margin-left: 66px;
+}
+
+.navbar-light .navbar-toggler {
+    color: black !important;
+    border: none;
+}
+
+.navbar {
+
+    padding: 21px 0;
+}
+
+.navend p {
+    padding: 11px 36px;
+    color: #212121;
+    font-size: 16px;
+    background: #ffd200;
+    border-radius: 10px;
+
+}
+
+.navend img {
+    margin-left: 56px;
+    height: 32px;
+    width: 37px;
+}
+
+header {
+    background: url(../images/images/header_02.jpg) no-repeat center / cover;
+    padding-top: 54px;
+}
+
+header h2 {
+    font-size: 60px;
+    text-transform: uppercase;
+    margin-bottom: 26px;
+}
+
+header p {
+    font-size: 24px;
+    margin-bottom: 69px;
+}
+
+header h3 {
+    font-size: 26px;
+    text-transform: uppercase;
+    border-radius: 10px;
+    border: 3px solid black;
+    padding: 22px 33px;
+    display: inline-block;
+    margin-bottom: 265px;
+    color: black;
+    transition: 0.5s;
+}
+
+header h3:hover {
+    background: black;
+    color: white;
+}
+
+.icon {
+    width: 148px;
+    height: 148px;
+    border-radius: 50%;
+    border: 5px solid #ffd200;
+
+}
+
+.block1 {
+    padding: 55px 0 92px;
+}
+
+.icon {
+    position: relative;
+}
+
+.iconimg {
+    position: absolute;
+    right: -98%;
+}
+
+.icons p {
+    margin-top: 220px;
+    text-align: center;
+    margin-left: -54px;
+    font-size: 26px;
+    line-height: 28px;
+
+}
+
+.block2 {
+    background: #f3f0e7;
+    padding: 59px 0 77px;
+}
+
+.block2 h3 {
+    font-size: 60px;
+    text-transform: uppercase;
+    margin-bottom: 67px;
+}
+
+.block2 .row .col-xl-4 img {
+    margin-bottom: 24px;
+}
+
+.text p {
+    font-size: 16px;
+    margin-top: 24px;
+    font-weight: 600;
+}
+
+.text h4 {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.block2 h2 {
+    margin-top: 85px;
+    padding: 24px 35px;
+    border-radius: 10px;
+    display: inline-block;
+    color: black;
+    font-size: 24px;
+    border: 3px solid #e11a27;
+    transition: 0.5s;
+}
+
+.block2 h2:hover {
+    color: white;
+    background: #e11a27;
+}
+
+.block3 {
+    padding: 74px 0 114px;
+}
+
+.block3 h3 {
+    font-size: 60px;
+    color: black;
+    margin-bottom: 83px;
+}
+
+.block3 .row .col-xl-4 h4 {
+    padding-top: 45px;
+    padding-left: 62px;
+    padding-bottom: 46px;
+    padding-right: 99px;
+    font-size: 34px;
+
+}
+
+.block3 .row .col-xl-4 {
+    background: #ffd200;
+    border-radius: 10px;
+    padding-right: 6px;
+    padding-left: 6px;
+    margin-right: -68px;
+}
+
+.price {
+    background: #fff;
+    padding-left: 22px;
+    padding-top: 23px;
+
+    text-align: start;
+}
+
+.block3 .row .col-xl-4 .price p img {
+    margin-right: 11px;
+}
+
+.block3 .row .col-xl-4 .price p {
+    font-size: 18px;
+}
+
+.price2 {
+    margin-top: 82px;
+    text-align: center !important;
+    font-size: 60px !important;
+    font-weight: 500;
+    margin-right: 40px;
+    padding-bottom: 18px;
+}
+
+.price3 {
+    margin: 16px 53px 14px 55px;
+    font-size: 22px;
+}
+
+.price23 {
+    margin-top: 55px;
+
+    text-align: center !important;
+    font-size: 60px !important;
+    font-weight: 500;
+    margin-right: 40px;
+    padding-bottom: 18px;
+}
+
+.price234 {
+    margin-top: 29px;
+
+    text-align: center !important;
+    font-size: 60px !important;
+    font-weight: 500;
+    margin-right: 40px;
+    padding-bottom: 18px;
+}
+
+.pos {
+    position: relative;
+}
+
+.best {
+    position: absolute;
+    top: -21px;
+    left: 85px;
+}
+
+.block4 {
+    background: url(../images/images/section_02.jpg) no-repeat center /cover;
+    padding: 42px 0 54px;
+}
+
+/* .bl4img{
+    max-width: 360px;
+} */
+.block4 p {
+    max-width: 524px;
+}
+
+.block4 h3 {
+    font-size: 60px;
+    margin-bottom: 57px;
+    font-weight: 400;
+}
+
+.bl4img h2 {
+    font-size: 30px;
+
+}
+
+.bl4img p {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.bl4text {
+    margin-left: 24px;
+
+}
+
+.bl4text h2 {
+    margin-left: 16px;
+}
+
+.bl4img {
+    margin-bottom: 27px;
+}
+
+.bl4p1 {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.bl4p {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 43px;
+}
+
+.text-right {
+    font-size: 18px;
+
+}
+
+.text-right p {
+    color: black;
+}
+
+.make h4 {
+    font-size: 26px;
+    text-transform: uppercase;
+    color: black;
+    border: 3px solid black;
+    display: inline-block;
+    margin-top: 115px;
+    padding: 23px 35px;
+    border-radius: 10px;
+    font-weight: 500;
+    transition: 0.5s;
+}
+
+.make h4:hover {
+    background: black;
+    color: white;
+}
+
+.contant {
+    max-width: 521px;
+}
+
+.block5 {
+    padding: 92px 0 119px;
+}
+
+.block5 .row .col-xl-4 h5 {
+    padding: 20px 103px;
+    background: #ffd200;
+    text-align: center;
+    font-size: 36px;
+    color: black;
+    font-weight: 400;
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 6px;
+}
+
+.bl5text {
+    padding: 31px 36px;
+    background: #f7f0e6;
+    border-radius: 0 0 10px 10px;
+    text-align: left;
+}
+
+.bl5text p {
+    margin-bottom: 18px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.ulka {
+    margin-left: 35px;
+    margin-bottom: 54px;
+}
+
+span {
+    color: #e11a27;
+
+}
+
+.bb {
+    margin-bottom: 45px !important;
+}
+
+.block5 h2 {
+    margin-top: 75px;
+    padding: 24px 35px;
+    border-radius: 10px;
+    display: inline-block;
+    color: black;
+    font-size: 24px;
+    border: 3px solid #e11a27;
+    transition: 0.5s;
+
+    text-transform: uppercase;
+}
+
+.block5 h2:hover {
+    color: white;
+    background: #e11a27;
+}
+
+.block6 {
+    padding: 51px 56px;
+    background: #ffd200;
+}
+
+.links {
+    font-size: 18px;
+    color: black;
+    border-top: 1px solid black;
+    width: 152px;
+
+}
+
+.links a {
+    margin-bottom: 13px;
+    color: black;
+}
+
+.links:nth-child(1) {
+    padding-top: 30px;
+}
+
+.info {
+    margin-left: 70px;
+
+}
+
+.info .links a img {
+    margin-right: 20px;
+}
+
+footer h3 {
+    font-size: 14px;
+    color: black;
+    text-align: center;
+    margin-top: 118px;
+}
